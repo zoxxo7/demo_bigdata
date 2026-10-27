@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Big Data Streaming Directories (generados en tiempo de ejecución)
+stream_input/*
+!stream_input/.gitkeep
+stream_output/*
+!stream_output/.gitkeep
+spark_checkpoint/*
+!spark_checkpoint/.gitkeep
+
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code y SO
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db

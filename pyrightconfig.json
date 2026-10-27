@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "C:/Users/ZAFNAT MAMANI/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages"
+  ],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "typeCheckingMode": "off"
+}
